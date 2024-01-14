@@ -1,0 +1,2 @@
+1.I have used vite as javscript build tool.
+2. I have also used tailwind css instead of bootstrap

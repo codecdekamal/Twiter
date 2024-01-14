@@ -1,0 +1,25 @@
+ usrs = {
+    "name":"kamal",
+    "email":"kamalkj93689@gmail.com",
+     "username":"abcdefghi",
+     "password":"aksldjaklsdj"
+}
+,
+{
+    "name":"Bipin",
+    "email":"Bipipbj93689@gmail.com",
+     "username":"bipinji",
+     "password":"aksldjaklsdj"
+},
+{
+    "name":"neha",
+    "email":"nehanj@gmail.com",
+     "username":"nehanj",
+     "password":"aksldjaklsdj"
+},
+{
+    "name":"babita",
+    "email":"babitabj9368@gmail.com",
+     "username":"babitabj",
+     "password":"aksldjaklsdj"
+}

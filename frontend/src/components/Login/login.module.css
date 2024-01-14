@@ -1,0 +1,55 @@
+.outerbox{
+    display: grid;
+    background-color: #F0F2F5;
+    height: 100vh;
+    min-width: 100vw;
+    justify-content: center;
+    align-items:center;
+    padding: 2rem;
+}
+.login{
+    display: grid;
+    background-color: white;
+    grid-template-columns: repeat(2,1fr);
+    height: fit-content;
+    width: 50vw;
+    border-radius: 1rem;
+}
+.left{
+    background-color:#1877F2 ;
+    border-radius: 1rem 0 0 1rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    color: #FFFFFF;
+    overflow: hidden;
+}
+.right{
+    display: grid;
+    grid-template-rows: 1fr 2fr 1fr;
+    
+}
+.logo{
+    text-transform: capitalize;
+    text-align: start;
+   font-weight: bold;
+    display: flex;
+    align-items: center;
+    font-size: x-large;
+    letter-spacing: 1px;
+    padding: 5px;
+}
+.form{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    justify-content: center;
+    row-gap: 1px;
+}
+.register{
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr 1fr 1fr;
+    justify-content: center;
+    row-gap: 1px;
+}
+
