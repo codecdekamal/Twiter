@@ -57,15 +57,15 @@ const Sidebar = (props) => {
           <FontAwesomeIcon icon={faCommentDots} />
           <h3 className="hidden md:block md:ml-2 ">Tweet</h3>
         </button>
-        <div className="md:flex md:flex-row justify-center  mt-16 md:mt-36">
-          <div className="h-10 w-10">
+        <div className="md:flex md:flex-row justify-center mt-16 md:mt-36 relative right-2 md:right-0">
+          <div className="md:h-10 md:w-10 h-8 w-8 ">
             <img
               src={`http://localhost:5000/${img}`}
               alt=""
               className="rounded-full mx-7 md:mx-0"
             />
           </div>
-          <div className="flex flex-col text-sm pl-1 justify-center items-center mt-3 md:mt-0 mr-2 md:mr-0">
+          <div className="flex flex-col text-sm pl-1 justify-center items-center mt-3 md:mt-0  md:mr-0 ">
             <div>
               <p>${name}</p>
             </div>
