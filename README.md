@@ -21,9 +21,7 @@ To run the project locally, follow these steps:
 3. Install the dependencies using `npm install`
 4. Start the development server using `npm start`
 
-## Demo
 
-You can see a live demo of the project at the following link: [Demo](https://twitter-clone-demo.com)
 
 ## Contributing
 
